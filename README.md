@@ -1,19 +1,22 @@
-### Olá, eu sou Jerssie Sousa 👋
+<h1 align="right">Oi 👋, eu sou Jerssie Sousa</h1> 
 
-
-- 🌱 Atualmente estudando Javascript,
-- 👯 Procurando desenvolver e elaborar habilidades em front-end.
-- 📫 Contato por: jerssiers@gmail.com
+<br>
+- 🌱 Atualmente estudando Javascript,<br>
+- 👯 Procurando desenvolver e elaborar habilidades em front-end.</br>
+- 📫 Contato por: <a href = "mailto:jerssiers@gmail.com">jerssiers@gmail.com</a>
+<br><br>
 
 <div align="center">
   <a href="https://github.com/jerssiesousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerssiesousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerssiesousa&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jerssiesousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerssiesousa&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="jerssie-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jerssie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jerssie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="jerssie-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="right" alt="jerssie-pic" height="150" style="border-radius: 50px;" src="https://user-images.githubusercontent.com/97859070/158197910-9c0416c9-8181-4539-8dd2-48ceb394196c.png">
 </div>
   
