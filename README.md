@@ -2,7 +2,7 @@
 
 <br>
 - 🌱 Atualmente estudando Javascript,<br>
-- 👯 Procurando desenvolver e elaborar habilidades em front-end.</br>
+- 👯 Procurando desenvolver e elaborar habilidades em desenvolvimento front-end.</br>
 - 📫 Contato por: <a href = "mailto:jerssiers@gmail.com">jerssiers@gmail.com</a>
 <br><br>
 
@@ -17,7 +17,9 @@
   <img align="center" alt="jerssie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jerssie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jerssie-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="right" alt="jerssie-pic" height="150" style="border-radius: 50px;" src="https://user-images.githubusercontent.com/97859070/158197910-9c0416c9-8181-4539-8dd2-48ceb394196c.png">
+</div>
+<div>
+  <img align="right" alt="jerssie-pic" height="150" style="border-radius: 50%;" src="https://share-cdn.picrew.me/shareImg/org/202203/516657_gvQLYQT5.png">
 </div>
   
   ##
